@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1624250044,
+      "filename": "lineage-18.1-20210621-UNOFFICIAL-2e.zip",
+      "id": "77887d5b51005325eaeb5fde0daba68a",
+      "romtype": "nightly",
+      "size": "745390312",
+      "url": "https://github.com/2e-dev/releases/releases/download/v1.2/lineage-18.1-20210521-UNOFFICIAL-2e.zip",
+      "version": "18.1"
+    }
+  ]
+}
