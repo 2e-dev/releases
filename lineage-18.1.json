@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1626171911,
-      "filename": "lineage-18.1-20210713-UNOFFICIAL-2e.zip",
-      "id": "bdfc9b2e486f05e727f6579d378e7908",
+      "datetime": 1627815643,
+      "filename": "lineage-18.1-20210801-UNOFFICIAL-2e.zip",
+      "id": "2bf1bdac913836d6253a9bead8a82231",
       "romtype": "UNOFFICIAL",
-      "size": "745447117",
-      "url": "https://github.com/2e-dev/releases/releases/download/v1.2/lineage-18.1-20210713-UNOFFICIAL-2e.zip",
+      "size": "780925438",
+      "url": "https://github.com/2e-dev/releases/releases/download/1.3/lineage-18.1-20210801-UNOFFICIAL-2e.zip",
       "version": "18.1"
     }
   ]
