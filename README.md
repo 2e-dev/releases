@@ -11,3 +11,6 @@
 #### Bugs:
 - WiFi calling.
 - Encryption.
+
+### Build 25-02-2022
+- Improved system stability.
